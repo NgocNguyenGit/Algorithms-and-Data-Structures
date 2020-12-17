@@ -1,5 +1,8 @@
 # Algorithms-and-Data-Structures
 
+### Final Project
+Using the provided ADT for trees in the class, write a binary tree class to store the arbitrary number of items, and implement two traversal algorithms BFS and DFS. Write a simple "main" function with a menu for the user to test your trees functionalities. 
+
 ### Mid-term Project
 Implement a city database using unordered lists. Each database record contains the name of the city (a string of arbitrary length) and the coordinates of the city expressed as integer x and y coordinates. Your database should allow records to be inserted, deleted by name or coordinate, and searched by name or coordinate. Another operation that should be supported is to print all records within a given distance of a specified point.
 
